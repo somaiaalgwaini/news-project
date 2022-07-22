@@ -1,0 +1,50 @@
+body{
+    background :rgb(189, 231, 245);
+}
+
+.container{
+    text-align: center;
+}
+.grid{
+    display: inline-block;
+    margin: 30px;
+    padding: 30px;
+    border-radius:20px;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    border-radius: 5px 50px;
+}
+article{
+    margin: 20px;
+    padding: 20px;
+    background:radial-gradient(black, transparent);;
+    display: inline-block;
+    height: 500px;
+    width: 200px;
+    border-radius: 2px 60px;
+    border-color: black;
+    align-items: center;
+
+}
+h3{
+    color: rgba(0, 18, 66, 0.911);
+    text-align: center;
+    background: gray;
+}
+p{
+    color:rgb(235, 222, 222);
+   font-size: 15px;
+   font-family: sans-serif;
+text-align: left;
+}
+button{
+    border-radius: 10px 10px;
+    background: gray;
+    color: black;
+    align-self: center;
+
+}
